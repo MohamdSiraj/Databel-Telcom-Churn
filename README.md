@@ -1,7 +1,7 @@
 
 ![Dashboard_Snap](https://github.com/user-attachments/assets/f76552ce-8590-4588-bb20-e85ec2d5896b)
 
-# Analyzing Customer Churn in Excel
+# Analyzing Customer Churn in Databel Telcom
 
 ## Project Overview
 Customer churn is a critical issue for businesses, as retaining existing customers is often more cost-effective than acquiring new ones. This project aims to analyze customer churn data using Excel to uncover insights and patterns that can help in formulating strategies to enhance customer retention.
