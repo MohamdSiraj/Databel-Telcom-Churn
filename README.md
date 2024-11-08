@@ -1,4 +1,6 @@
-![Churn Analysis](Dashboard_Snap.png)
+
+![Dashboard_Snap](https://github.com/user-attachments/assets/f76552ce-8590-4588-bb20-e85ec2d5896b)
+
 # Analyzing Customer Churn in Excel
 
 ## Project Overview
